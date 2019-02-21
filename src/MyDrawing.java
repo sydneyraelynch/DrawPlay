@@ -1,3 +1,10 @@
+/**
+ * Sydney Lynch
+ * Claire Knight
+ * Software Engineering, Section A
+ * C11A-1 GIT on GITHub
+ */
+
 import java.awt.Graphics;
 
 import javax.swing.JFrame;
